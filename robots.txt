@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://extrouver.github.io/sitemap.html.gz
+Sitemap: https://extrouver.github.io/app/sitemap.html.gz
+Sitemap: https://extrouver.github.io/assets/sitemap.html.gz
+Sitemap: https://extrouver.github.io/css/sitemap.html.gz
+Sitemap: https://extrouver.github.io/data/sitemap.html.gz
+Sitemap: https://extrouver.github.io/includes/sitemap.html.gz
+Sitemap: https://extrouver.github.io/item/sitemap.html.gz
+Sitemap: https://extrouver.github.io/src/sitemap.html.gz
